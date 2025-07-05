@@ -50,3 +50,5 @@ settings.gradle.projectsLoaded {
 		}
 	}
 }
+include 'spring-study-test-leo'
+
