@@ -1,0 +1,23 @@
+plan content:
+    Spring Ioc:
+        Spring架构原理
+        Bean的生命周期
+        Bean初始化流程
+        生命周期后置处理：initializingBean、DisposableBean
+        后置增强BeanFactoryPostProcessor
+        配置解析
+        组件创建
+        组件获取
+        容器启动
+        Spring框架中的设计模式： 工厂模式，代理模式，装饰器模式， 单例模式，模板方法模式，观察者模式
+
+    Spring AOP:
+        AOP解析流程
+        AOP执行流程
+
+
+    Spring Transaction:
+
+plan target:
+
+plan acceptance criteria:
